@@ -47,7 +47,7 @@
             this.ClickButton.Name = "ClickButton";
             this.ClickButton.Size = new System.Drawing.Size(253, 64);
             this.ClickButton.TabIndex = 1;
-            this.ClickButton.Text = "Нажми на меня!";
+            this.ClickButton.Text = "Нажмите";
             this.ClickButton.UseVisualStyleBackColor = true;
             this.ClickButton.Click += new System.EventHandler(this.ClickButton_Click);
             // 
